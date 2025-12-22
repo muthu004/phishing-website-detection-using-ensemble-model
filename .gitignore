@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Machine Learning Models
+*.h5
+*.joblib
+*.pkl
+
+# Generated images/visualizations
+*.png
+*.jpg
+*.jpeg
+
+# PDFs
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Data files
+*.csv
+*.parquet
+parq/
+
+
