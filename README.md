@@ -140,34 +140,5 @@ The system analyzes multiple aspects of URLs:
 - **Web Scraping**: BeautifulSoup4, requests
 - **Model Persistence**: joblib
 
-## 📊 Model Performance
 
-The XGBoost model is configured with:
-- 500 estimators
-- Max depth: 10
-- Learning rate: 0.05
-- Optimized for accuracy and precision
 
-The Bi-LSTM model provides:
-- Deep sequence analysis
-- HTML content understanding
-- Pattern recognition
-
-## 📝 License
-
-This project is open source and available for educational and research purposes.
-
-## 👨‍💻 Author
-
-**Muthukumar V**
-- GitHub: [@muthu004](https://github.com/muthu004)
-
-## 🙏 Acknowledgments
-
-- Dataset sources for phishing and legitimate URLs
-- Open source ML/DL libraries
-- Flask framework community
-
----
-
-⭐ If you find this project helpful, please consider giving it a star!
